@@ -1,0 +1,16 @@
+Package: salah
+Type: Package
+Title: the spices of data analysis for a seasoned palette
+Version: 0.1
+Date: 2016-01-20
+Author: Salah Chafik <salahchafik@gmail.com>
+Description: makes cleaning/analyzing/visualizing data easier
+License: None
+Depends:
+    plyr,
+    dplyr,
+    stringr,
+    ggplot2,
+    GGally,
+    psych
+RoxygenNote: 5.0.0
